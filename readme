@@ -5,3 +5,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 create a new branch is quick.
 create a dev branch and add merge.
+this part is work on dev branch.
